@@ -8,7 +8,7 @@
 <h3><b>👀 Profile</b>
 </h3><a href="https://velog.io/@oeckikek" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Velog&logoColor=white"/></a></a>
 <br/><br/>
-🎓 광운대학교 소프트웨어학부 시스템소프트웨어 전공
+🎓 광운대학교 소프트웨어학부 시스템소프트웨어
 
 <h2></h2>
 
